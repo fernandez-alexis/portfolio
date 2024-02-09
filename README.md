@@ -1,1 +1,1 @@
-This is my public portfolio. Please contact me at alexis.fernandez@berkeley.edu if you would like to see more of my code.
+This is my public portfolio. Much of my code is in private repositories only accessible through email sharing. Please contact me at alexis.fernandez@berkeley.edu if you would like to see more of my code.
